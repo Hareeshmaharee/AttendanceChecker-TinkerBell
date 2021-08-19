@@ -8,25 +8,26 @@ Printing the list of unknown participants
 
 ## Demo + Video
 
-Insert gif or link to demo, or video
-[link to video]
+https://github.com/Hareeshmaharee/AttendanceChecker-TinkerBell/blob/master/Attendance%20Checker.mp4
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
-Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
-
+1. Hareeshma K M [https://github.com/Hareeshmaharee]
+2. Lekshmi A M [https://github.com/Lekshmi2000]
+3. Neevea Manoj[https://github.com/Neevea8880]
   
 ## Tech Stack
 
-Eg: Flutter, Python, Html, CSS, JavaScript
+Python
 
   
 ## Working of the project
 
-1. Explaining the working of project
-2. Embed video of project demo
+1. Retrieving data from Sqlite database
+2. Getting input values
+3. Preparing and writing list of absentees to separate text files
+4. Printing and writing list of unknown participats to text file
+5. Displaying total number of absentees
 
   
 ## Features
