@@ -55,6 +55,12 @@ and fill the Instructions for running it :)
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Absentees of A batch : https://github.com/Hareeshmaharee/AttendanceChecker-TinkerBell/blob/master/Attendance%20checker%20abatch%20absentees.png
+
+Absentees of B batch : https://github.com/Hareeshmaharee/AttendanceChecker-TinkerBell/blob/master/Attendance%20Checker%20Bbatch%20Absentees.png
+
+Terminal output and unknown list : https://github.com/Hareeshmaharee/AttendanceChecker-TinkerBell/blob/master/Attendance%20Checker%20output.png
+
+
 
   
