@@ -1,9 +1,10 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-# Project Title
+# ATTENDANCE CHECKER
 
-A brief description of what this project does and who it's for
-
+Reading the participants list
+Printing the absentees list of A batch, B batch
+Printing the list of unknown participants
 
 ## Demo + Video
 
